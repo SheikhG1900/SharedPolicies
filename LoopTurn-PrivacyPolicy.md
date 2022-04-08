@@ -18,6 +18,7 @@ The app does use third-party services that may collect information used to ident
 Link to the privacy policy of third-party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Huawei](https://www.huawei.com/en/privacy-policy)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 
 **Log Data**
